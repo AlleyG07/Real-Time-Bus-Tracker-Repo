@@ -7,7 +7,7 @@ How to Run:There are starter files that include an index.html, mapanimation.js a
   
 Roadmap of Future Improvements: This project was a success and for that reason I would like to build on it. I would like to track more than one bus and maybe add a route to the current route. The new route would include an express route that goes straight from MIT non stop and another route that is extended to the out skirts of both institutions. I will color code the different markers so that you would be able to identify each route.
 
-  MIT License
+ MIT License
 
 Copyright (c) 2022 Alexandrea Green
 
@@ -28,7 +28,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Securit
